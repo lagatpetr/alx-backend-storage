@@ -1,4 +1,4 @@
-/ Update DB
+// Update DB
 db.school.update(
     { name: "Holberton school" },
     {$set: {
